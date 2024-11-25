@@ -28,7 +28,7 @@ WhiteBarColorTolerance := 15
 FishBarColorTolerance := 0
 
 ; Navigation UI Settings
-NavigationKey := "ň"
+NavigationKey := "#"
 AutoEnableCameraMode := true
 NavigationFailsafeTimer := 20
 NavigationInputDelay := 10
